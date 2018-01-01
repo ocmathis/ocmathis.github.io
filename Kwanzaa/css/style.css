@@ -1,0 +1,31 @@
+ body {
+  background-color: green;
+     }
+
+.container-fluid {
+  height: 350px;
+}
+.card-img-top {
+  height: 350px;
+}
+.card {
+  center;
+}
+.jumbotron,
+.row,
+h3,
+p {
+    font-family: 'Passion One', cursive;
+}
+
+h2,
+h1 {
+  text-align: center;
+  font-family: 'Passion One', cursive;
+}
+.jumbotron {
+   padding-top: 5%;
+   height: 450px;
+  background: url('https://i0.wp.com/www.thegrayschool.com/wp-content/uploads/2017/09/dreamstime_xs_22206896.jpg?fit=480%2C360') no-repeat center;
+  background-size: 75%;
+}
